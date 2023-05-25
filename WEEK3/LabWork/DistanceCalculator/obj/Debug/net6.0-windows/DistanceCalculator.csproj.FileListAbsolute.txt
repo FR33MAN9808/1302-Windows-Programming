@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.exe
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.deps.json
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\bin\Debug\net6.0-windows\DistanceCalculator.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\refint\DistanceCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\DistanceCalculator.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\DistanceCalculator\obj\Debug\net6.0-windows\ref\DistanceCalculator.dll

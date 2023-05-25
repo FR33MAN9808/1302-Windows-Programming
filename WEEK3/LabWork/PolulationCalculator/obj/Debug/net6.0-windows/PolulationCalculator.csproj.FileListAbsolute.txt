@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\bin\Debug\net6.0-windows\PolulationCalculator.exe
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\bin\Debug\net6.0-windows\PolulationCalculator.deps.json
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\bin\Debug\net6.0-windows\PolulationCalculator.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\bin\Debug\net6.0-windows\PolulationCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\bin\Debug\net6.0-windows\PolulationCalculator.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\refint\PolulationCalculator.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\PolulationCalculator.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK3\LabWork\PolulationCalculator\obj\Debug\net6.0-windows\ref\PolulationCalculator.dll
