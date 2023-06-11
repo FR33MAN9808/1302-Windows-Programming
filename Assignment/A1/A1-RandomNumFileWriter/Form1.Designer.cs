@@ -53,7 +53,7 @@
             // 
             // exitButton
             // 
-            exitButton.Location = new Point(200, 424);
+            exitButton.Location = new Point(205, 244);
             exitButton.Name = "exitButton";
             exitButton.Size = new Size(112, 34);
             exitButton.TabIndex = 2;
@@ -63,7 +63,7 @@
             // 
             // generateButton
             // 
-            generateButton.Location = new Point(200, 369);
+            generateButton.Location = new Point(205, 189);
             generateButton.Name = "generateButton";
             generateButton.Size = new Size(112, 34);
             generateButton.TabIndex = 3;
@@ -75,7 +75,7 @@
             // 
             AutoScaleDimensions = new SizeF(11F, 24F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(535, 490);
+            ClientSize = new Size(535, 322);
             Controls.Add(generateButton);
             Controls.Add(exitButton);
             Controls.Add(textBox1);

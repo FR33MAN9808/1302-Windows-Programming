@@ -25,11 +25,11 @@ namespace A1_RandomNumFileWriter
 
                 for (int i = 0; i < numNum; i++)
                 {
-                    outputFile.Write($"{rand.Next(0, 100)}-");
+                    outputFile.WriteLine(rand.Next(0, 100));
                 }
 
                 outputFile.Close(); // Close the file after writing
-               // Optionally, display a message indicating the successful generation of random numbers
+                                    // Optionally, display a message indicating the successful generation of random numbers
                 MessageBox.Show("Random numbers generated and saved successfully.");
             }
         }
