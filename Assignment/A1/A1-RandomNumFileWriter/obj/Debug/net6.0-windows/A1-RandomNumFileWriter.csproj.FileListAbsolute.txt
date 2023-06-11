@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1_RandomNumFileWriter.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\bin\Debug\net6.0-windows\A1-RandomNumFileWriter.exe
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\bin\Debug\net6.0-windows\A1-RandomNumFileWriter.deps.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\bin\Debug\net6.0-windows\A1-RandomNumFileWriter.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\bin\Debug\net6.0-windows\A1-RandomNumFileWriter.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\bin\Debug\net6.0-windows\A1-RandomNumFileWriter.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\refint\A1-RandomNumFileWriter.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\A1-RandomNumFileWriter.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\A1-RandomNumFileWriter\obj\Debug\net6.0-windows\ref\A1-RandomNumFileWriter.dll

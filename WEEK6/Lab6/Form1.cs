@@ -6,5 +6,11 @@ namespace Lab6
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int[] intArray = new int[10];
+            Random rand = new Random();
+        }
     }
 }
