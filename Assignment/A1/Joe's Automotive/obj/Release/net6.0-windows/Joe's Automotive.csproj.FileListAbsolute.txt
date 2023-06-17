@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\bin\Release\net6.0-windows\Joe's Automotive.exe
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\bin\Release\net6.0-windows\Joe's Automotive.deps.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\bin\Release\net6.0-windows\Joe's Automotive.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\bin\Release\net6.0-windows\Joe's Automotive.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\bin\Release\net6.0-windows\Joe's Automotive.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe_s_Automotive.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\refint\Joe's Automotive.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\Joe's Automotive.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A1\Joe's Automotive\obj\Release\net6.0-windows\ref\Joe's Automotive.dll

@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\WEEK8\Lab\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
