@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\bin\Debug\net6.0-windows\A2-DriverExam.exe
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\bin\Debug\net6.0-windows\A2-DriverExam.deps.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\bin\Debug\net6.0-windows\A2-DriverExam.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\bin\Debug\net6.0-windows\A2-DriverExam.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\bin\Debug\net6.0-windows\A2-DriverExam.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2_DriverExam.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\refint\A2-DriverExam.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\A2-DriverExam.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\A2-DriverExam\obj\Debug\net6.0-windows\ref\A2-DriverExam.dll
