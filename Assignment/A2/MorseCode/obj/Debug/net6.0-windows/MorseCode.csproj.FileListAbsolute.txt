@@ -1,0 +1,17 @@
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\bin\Debug\net6.0-windows\MorseCode.exe
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\bin\Debug\net6.0-windows\MorseCode.deps.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\bin\Debug\net6.0-windows\MorseCode.runtimeconfig.json
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\bin\Debug\net6.0-windows\MorseCode.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\bin\Debug\net6.0-windows\MorseCode.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.csproj.AssemblyReference.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.Form1.resources
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.csproj.GenerateResource.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.AssemblyInfoInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.AssemblyInfo.cs
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.csproj.CoreCompileInputs.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\refint\MorseCode.dll
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.pdb
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\MorseCode.genruntimeconfig.cache
+D:\CodeStuff\1302-Windows-Programming\Assignment\A2\MorseCode\obj\Debug\net6.0-windows\ref\MorseCode.dll
